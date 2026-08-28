@@ -2,12 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Digital Clock</title>
+    <title>Digital Clock with GIF Background</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div id="clock">00:00:00</div>
-
+    <div class="clock" id="my-clock">00:00:00</div>
     <script src="script.js"></script>
 </body>
 </html>
